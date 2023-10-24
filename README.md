@@ -34,6 +34,9 @@ For a start, they have identified a couple of numbers they will like to report f
 The skill demonstrated in this project include: Power BI (Power Query, DAX, Transformation, data analytics, data visualization, business intelligence, and strategic insights extraction) 
 A clear, user-friendly dashboard was designed that was logically segregated into sales and marketing performance, making it easier for different stakeholders to extract relevant information.
 
+# Data Model
+![image](https://github.com/Taofik06/Performance-Review-of-Forggith-Pharmaceuticals/assets/123642327/4faaa5d0-2086-48bb-9b12-5f6130400acf)
+
 # Sales Performance Report
 ![image](https://github.com/Taofik06/Performance-Review-of-Forggith-Pharmaceutical/assets/123642327/cbc0d848-ce82-4df9-962e-73f44bfa59a3)
 
