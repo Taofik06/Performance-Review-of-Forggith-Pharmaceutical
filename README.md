@@ -35,11 +35,26 @@ The skill demonstrated in this project include: Power BI (Power Query, DAX, Tran
 A clear, user-friendly dashboard was designed that was logically segregated into sales and marketing performance, making it easier for different stakeholders to extract relevant information.
 
 # Sales Performance Report
-Forggith's sales performance has been robust. With a total revenue of €11.12 billion, they have surpassed their overall target of €8.45 billion by 32% for the 4 years considered. On an annual level, the company has consistently surpased their target of *€2 billion*, showcasing growth and achievement.
-- Growth Pattern: The revenue consistently grew from 2022 to 2024 but saw a little decline in 2025 comapred to previous even though the target was also surpased. The dip might, such occurrences could result from various factors like market saturation, increased competition, economic factors, or other external influences.
+![image](https://github.com/Taofik06/Performance-Review-of-Forggith-Pharmaceutical/assets/123642327/cbc0d848-ce82-4df9-962e-73f44bfa59a3)
 
-Revenue vs. Target: Despite the YoY changes, FORGGITH managed to consistently surpass its annual revenue targets over the four years. This indicates effective sales strategies and strong market demand for their products.
+Forggith's sales performance has been robust. With a total revenue of €11.12 billion, they have surpassed their overall target of €8.45 billion by 32% for the 4 years considered. Revenue distribution highlights Europe as a key market area
+- Growth Pattern: The revenue consistently grew from 2022 to 2024 but saw a little decline in 2025 comapred to previous even though the target was also surpased. The dip might be due to increased target or occurrences from various factors like market saturation, increased competition, economic factors, or other external influences.
 
-Sub-channels: Retail emerged as the dominant sub-channel for revenue generation across all four years, suggesting a robust consumer base. However, the Government, Institution, and Private channels also brought substantial contributions.
+- Revenue vs. Target: Despite the YoY changes, FORGGITH managed to consistently surpass its annual revenue targets over the four years. This indicates effective sales strategies and strong market demand for their products.
 
-Product Classes: While the leading product class varied between Antiseptics and Analgesics over the years, the overall product strategy seems to be working given the consistent performance across categories.
+- Sub-channels: Retail emerged as the dominant sub-channel for revenue generation across all four years, suggesting a robust consumer base. However, the Government, Institution, and Private channels also brought substantial contributions.
+
+- Product Classes: While the leading product class varied between Antiseptics and Analgesics over the years, the overall product strategy seems to be working given the consistent performance across categories.
+
+# Marketing Performance Review for Forggith
+![image](https://github.com/Taofik06/Performance-Review-of-Forggith-Pharmaceutical/assets/123642327/beb803ef-afd4-4c5e-a8dd-8e823827ec27)
+
+Forggith's marketing strategies are clearly effective
+
+- Revenue and Volume Dynamics: The actual revenue versus the target shows a consistent over-achievement across all years. The volume dynamics further support this, with an actual volume of 27M against a target of 21M. Such performance points to a high product demand, which can be linked to an effective marketing campaign/strategy.
+
+- Sales Representative Performance: Over the years, all the sales representatives has done well in achieving and even surpassing their individual targets apart from in 2025 where a dip was noticed some of the representatives performance. Their performances indicate their skill level at customer engagement and product knowledge, as well as the effectiveness of the marketing strategies and tools they employ. 
+
+- Sales Team Achievements: The Delta sales team emerged as a significant contributor, achieving €3.428 billion in revenues. Their performance suggests that they have a well-defined territory or product category that aligns with market demand.
+
+- Product Insights: '*Tetrasanlyl*' and '*Ionclotide*' emerged as the top performers, indicating a strong market preference or need for these products. The marketing efforts behind these products are surely impactful, leading to such high demand.
