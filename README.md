@@ -1,7 +1,7 @@
 # Performance-Review-of-Forggith-Pharmaceutical
 
 # Introduction
-Forggith Pharmaceuticals, a Germany based leading manufacturer of medical drugs. Their distribution model is that they work closely with distributors, who in turn ensure that the products reach the retailers. To track, monitor, and optimize their strategies, Forggith aims to utilizes Power BI reports to generated insights from the sales and marketing data accumulated over the years.
+Forggith Pharmaceuticals, a Germany based leading manufacturer of medical drugs. Their distribution model is that they work closely with distributors, who in turn ensure that the products reach the retailers. To track, monitor, and optimize their strategies, Forggith aims to utilizes Power BI reports to generate insights from the sales and marketing data accumulated over the years.
 ![image](https://github.com/Taofik06/Performance-Review-of-Forggith-Pharmaceutical/assets/123642327/b7cf7f62-31fb-4746-985f-fd5459567830)
 
 # Problem Statement
