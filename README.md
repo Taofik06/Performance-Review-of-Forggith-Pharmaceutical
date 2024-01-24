@@ -64,7 +64,7 @@ Forggith's marketing strategies are clearly effective
 
 - You can react with the Power BI report here: https://app.powerbi.com/view?r=eyJrIjoiYjYwNWI4YWUtYTZjYS00NjM2LWE2YzgtNzRmZjc0OGVmNjY4IiwidCI6ImQwNDU3ZGRiLTJmYTUtNGM1Mi05YmUzLTJhMzIzYTAxZjRhMiJ9&pageName=ReportSection
 
-# Recommendation:
+# Recommendations:
 
 Considering the strong performance across both sales and marketing metrics, it's important that Forggith continues to maintain its momentum. 
 Some recommendation include:
